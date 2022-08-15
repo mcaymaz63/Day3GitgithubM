@@ -21,6 +21,8 @@ NOT ; git lo9
 6- git pul
 kjjjlkl
 
+master 1 deneme
+
 
  */
 
