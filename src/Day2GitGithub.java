@@ -18,6 +18,10 @@ kullanırıg --oneline commitlerimdeki yani versiyonlarimdaki durumu gosteirir
 
 NOT ; git lo9
 
-6- git pull
+6- git pul
+kjjjlkl
+
 
  */
+
+
