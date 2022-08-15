@@ -17,4 +17,7 @@ Not: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim 
 kullanırıg --oneline commitlerimdeki yani versiyonlarimdaki durumu gosteirir
 
 NOT ; git lo9
+
+6- git pull
+
  */
