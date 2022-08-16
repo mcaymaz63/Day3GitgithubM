@@ -1,6 +1,7 @@
 public class Day3gitC {
     public static void main(String[] args) {
         System.out.println("sanki github ogrendim");
+        System.out.println("baktim masallah olmus");
     }
     /*
 DOSYAYI GITHUBA GONDERME

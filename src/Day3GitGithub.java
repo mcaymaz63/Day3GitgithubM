@@ -62,7 +62,6 @@ Kodlarınızda değişiklik yaptığınızda tekrar güncellemek için
 
 insallah tamamdir
 baktim masallah olmus
-bir daha denedim olmus olmus
 
    */
 
