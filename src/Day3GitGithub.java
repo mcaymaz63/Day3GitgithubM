@@ -34,7 +34,8 @@ kullanırız
 7- git remote add origin https://github.com/.............git (yukarıda2. satırda kopyalağınız adresi buraya yapıştırın)
             8- git push -u origin main
 
-
+*/
+    /*
     SONRASINDA Aynı PROJE için ;
 
     her yeni eklediğiniz şeyden sonra GitHub'a yüklemek için
