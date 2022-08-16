@@ -1,4 +1,7 @@
 public class Day3gitC {
+    public static void main(String[] args) {
+        System.out.println("sanki github ogrendim");
+    }
     /*
 DOSYAYI GITHUBA GONDERME
 
@@ -12,5 +15,9 @@ DOSYAYI GITHUBA GONDERME
     8- git push -u origin main
 
 
+
+
      */
+
+
 }
