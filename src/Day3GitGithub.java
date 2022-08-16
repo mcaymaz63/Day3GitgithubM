@@ -60,7 +60,9 @@ Kodlarınızda değişiklik yaptığınızda tekrar güncellemek için
 3) git push
 
 insallah tamamdir
+baktim masallah olmus
    */
+
 
 
 
