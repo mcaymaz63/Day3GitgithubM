@@ -59,8 +59,9 @@ Kodlarınızda değişiklik yaptığınızda tekrar güncellemek için
 2) git commit -m "versiyon_adı"
 3) git push
 
+insallah tamamdir
+   */
 
-        */
 
 
 
